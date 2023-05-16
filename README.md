@@ -39,6 +39,6 @@ This profile has the work, I have contributed towards the development of Pantry 
 
 
 ## Sprint #5
-- Major Feature - donor view page  [https://github.com/ChicoState/PantryNode/pull/230#issue-1698780433] : View the contributions made by the donor on the main view page. The donor can add more donations using the form. 
+- Major Feature - donor view page  [https://github.com/ChicoState/PantryNode/pull/230#issue-1698780433] : View the contributions made by the donor on the main view page. The donor can add more donations using the form. Worked with the donorSKUlookup team - Jay,Yashvi,Parth and Anoushka
 
 
