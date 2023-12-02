@@ -2,9 +2,9 @@
 
 Hi There, I am Sarthak. 
 
-A full stack web developer.
+A full-stack web and app developer.
 
-Working to be a UI/UX Developer.
+Working towards being a UI/UX Developer.
 
 
 
