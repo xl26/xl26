@@ -2,7 +2,7 @@
 
 Hi There, I am Sarthak. 
 
-A full-stack web and app developer.
+A full-stack web developer.
 
 
 
